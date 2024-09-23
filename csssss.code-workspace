@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Documents/font-awesome"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "csssss"
+	}
+}

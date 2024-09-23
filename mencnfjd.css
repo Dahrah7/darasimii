@@ -1,0 +1,88 @@
+@media (max-width:900px){
+    .head5{
+        display: none;
+    }
+    .head3{
+        display: block;
+        font-size: 15px;
+    }
+    .head6{
+        font-size: 20px;
+    }
+    .head1{
+        margin-left: 5px;
+    }
+    .headdiv{
+        padding: 10px;
+    }
+    .container{
+        height: 120vh;
+    }
+    .headdiv1{
+        flex-direction: column;
+        padding: 5px;
+    }
+    .head15{
+        height: 500px;
+        width: 100%;
+    }
+    .headdiv2{
+    flex-direction: column;
+    padding: 5px;
+    }
+    .headdiv4{
+        padding: 5px;
+        justify-content: center;
+        display: flex;
+        margin: 0;
+        width: 100%;
+    margin-top: 70px;
+    margin-left: -150px;
+    }
+    .head21{
+        text-align: center;
+        margin-left: -250px;
+        text-align: center;
+        font-size: 12px;
+        /* margin-right: 300px; */
+    }
+    .head23{
+        margin-left: 20px;
+
+    text-align: center;
+    margin-top: 5px;
+    font-size: 12px;}
+    .head25{
+        /* text-align: center; */
+        font-size: 25px;
+    }
+    .headd{
+        margin-left: 250px;
+        font-size: 12px;
+        /* text-align: center;   */
+        padding: 5px;
+    }
+    .hard{
+        padding: 10px;
+    }
+    .HEDDDD{
+      text-align: center;
+      display: flex;
+      justify-content: center;
+    }
+    .head25{
+        margin-left: 200px;
+    }
+    .headdiv20{
+        flex-direction: column;
+        justify-content: center;
+        width: 250px;
+        margin-left: 255px;
+    }
+
+    .foot{
+        background-color: yellow;
+        margin-bottom: -4px;
+        color: blue;
+    }
+}
